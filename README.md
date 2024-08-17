@@ -1,4 +1,4 @@
-## Hola! Soy Lis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hola! Soy Lis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=100&color=954DF7&width=435&lines=Frontend+Development;UX%2FUI+Design;Backend+Development)](https://git.io/typing-svg)
 
