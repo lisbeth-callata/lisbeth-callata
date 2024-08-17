@@ -1,8 +1,6 @@
 # Hola! Soy Lis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=100&color=954DF7&width=435&lines=Frontend+Development;UX%2FUI+Design;Backend+Development)](https://git.io/typing-svg)
-
-Soy **Ingeniera de Sistemas** con experiencia en **desarrollo de software** y **soluciones tecnológicas innovadoras**. Me apasiona crear aplicaciones que optimicen procesos y mejoren la experiencia del usuario. Actualmente, estoy enfocada en el **desarrollo web** y la** implementación de tecnologías avanzadas**.
+Soy **Ingeniera de Sistemas** con experiencia en **desarrollo de software** y **soluciones tecnológicas innovadoras**. Me apasiona crear aplicaciones que optimicen procesos y mejoren la experiencia del usuario. Actualmente, estoy enfocada en el **desarrollo web** y la **implementación de tecnologías avanzadas**.
 
 <p>
 <a href="mailto:lisbeth2536@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
